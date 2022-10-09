@@ -1,2 +1,2 @@
 # CTG_
-Cardiotocography data analysis.
+Cardiotocography data analysis. Machine learning algorithms implementation. (Supervised learning)
